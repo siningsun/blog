@@ -1,2 +1,2 @@
 # blog
-skillset-building-document
+This repo is for documenting my coding skillset building process.
